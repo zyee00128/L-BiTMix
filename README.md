@@ -12,7 +12,7 @@ This repository provides a PyTorch implementation of the paper "L-BiTMix: A Ligh
 - [Project structure](#-project-structure)
 - [Important files and folders](#️-important-files-and-folders)
 - [Reproducing experiments](#-reproducing-experiments)
-- [Cross-validation details (Key)](#-cross-validation-details-key)
+- [Cross-validation details](#-cross-validation-details-key)
 - [Citation](#-citation)
 
 ## Key features
