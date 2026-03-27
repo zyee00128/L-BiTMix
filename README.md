@@ -47,7 +47,7 @@ See `requirements.txt` for the exact package versions required for experiments.
 ## Project structure
 
 ```
-AdaGrad-Fusion/
+L-BitMix/
 ├── datacollection.py        # data preprocessing and dataset splitting
 ├── main.py                  # main experiment entrypoint
 ├── pipeline_ecg.py          # fine-tuning pipeline
