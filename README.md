@@ -1,4 +1,4 @@
-# ADAGRAD-FUSION
+# L-BitMix
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/pytorch-1.10%2B-orange)](https://pytorch.org/)
